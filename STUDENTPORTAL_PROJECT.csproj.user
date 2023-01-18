@@ -1,0 +1,41 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ShowAllFiles>true</ShowAllFiles>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="GUI\AdminGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\CoordinatorGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\LoginGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\MarkAssesment.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\StudentAttendencsForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\StudentGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\StudentHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TakeAttendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TeacherCourses.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\TeacherGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GUI\WrongGUI.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
